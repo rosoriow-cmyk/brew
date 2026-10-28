@@ -19,11 +19,13 @@
     "identifier": "custom"
   },
   "spellright.language": [
-    "en_GB",
-    "en_US"
+    "en",
+    "es"
   ],
   "spellright.documentTypes": [
     "markdown",
+    "latex",
+    "plaintext"
   ],
   "rubyLsp.customRubyCommand": "source ../../.vscode/ruby-lsp-activate.sh",
   "rubyLsp.bundleGemfile": "Library/Homebrew/Gemfile",
